@@ -1,0 +1,12 @@
+{
+    "name": "wangxuezhi007/model",
+    "require": {},
+    "autoload":{
+
+        "psr-4":{
+
+            "wangxuezhi007\\model\\":""
+        }
+    }
+
+}
